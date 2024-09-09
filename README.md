@@ -6,16 +6,16 @@
 <!-- Tags - 1 -->
 <p align = "center">
   <a href = "https://github.com/IoT-Buzz/IoT/issues">
-    <img src = "https://img.shields.io/github/issues/jaykali/maskphish.svg" />
+    <img src = "https://img.shields.io/github/issues/Mraprguild/maskphish.svg" />
   </a>
   <a href = "https://github.com/IoT-Buzz/IoT/issues?q=is%3Aissue+is%3Aclosed">
-    <img src = "https://img.shields.io/github/issues-closed/jaykali/maskphish.svg" />
+    <img src = "https://img.shields.io/github/issues-closed/Mraprguild/maskphish.svg" />
   </a>
   <a href = "https://github.com/IoT-Buzz/IoT/pulls">
-    <img src = "https://img.shields.io/github/issues-pr/jaykali/maskphish.svg" />
+    <img src = "https://img.shields.io/github/issues-pr/Mraprguild/maskphish.svg" />
   </a>
   <a href = "https://github.com/IoT-Buzz/IoT/pulls?q=is%3Apr+is%3Aclosed">
-    <img src = "https://img.shields.io/github/issues-pr-closed/jaykali/maskphish.svg" />
+    <img src = "https://img.shields.io/github/issues-pr-closed/Mraprguild/maskphish.svg" />
   </a>
   <a href = "">
     <img src = "https://img.shields.io/github/repo-size/Mraprguild/maskphish?color=yellow" />
